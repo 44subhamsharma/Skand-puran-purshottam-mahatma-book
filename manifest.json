@@ -1,0 +1,17 @@
+{
+  "name": "नीलाचल पाठागार — श्रीपुरुषोत्तमक्षेत्रमाहात्म्यम्",
+  "short_name": "नीलाचल पाठागार",
+  "description": "श्रीपुरुषोत्तमक्षेत्रमाहात्म्यम् (स्कन्दपुराण) — मूल PDF पढ़ें और सुनें, ऑनलाइन व ऑफ़लाइन दोनों।",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4ecd8",
+  "theme_color": "#7a1f2b",
+  "lang": "hi",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
+
